@@ -30,6 +30,36 @@
 - \# 2300 &rarr; 2399
 - \# 2400 &rarr; 2499
 
+## Solutions - by Algorithms
+
+- Bit Manipulation 
+- Array 
+- String 
+- Linked List 
+- Stack 
+- Queue 
+- Binary Heap 
+- Tree 
+- Hash Table 
+- Math 
+- Sort 
+- Two Pointers 
+- Recursion 
+- Binary Search 
+- Binary Search Tree 
+- Breadth-First Search 
+- Depth-First Search 
+- Backtracking 
+- Dynamic Programming 
+- Greedy 
+- Graph 
+- Geometry 
+- Simulation 
+- Design 
+- Concurrency 
+
+- SQL 
+- Shell Script
 
 ## Problem 01 - 99
 
