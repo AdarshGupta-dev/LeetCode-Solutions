@@ -1,6 +1,35 @@
-# [LeetCode](https://leetcode.com/problemset/all/)
+# Python Solutions to [LeetCode](https://leetcode.com/problemset/all/)
 
 ![Language](https://img.shields.io/badge/Language-Python-blue) ![License](https://img.shields.io/badge/License-MIT-green) ![Progress](https://img.shields.io/badge/Progress-0%20%2F%202355-red)
+
+## Solutions - by Index
+
+- \# 1 &rarr; 99
+- \# 100 &rarr; 199
+- \# 200 &rarr; 299
+- \# 300 &rarr; 399
+- \# 400 &rarr; 499
+- \# 500 &rarr; 599
+- \# 600 &rarr; 699
+- \# 700 &rarr; 799
+- \# 800 &rarr; 899
+- \# 900 &rarr; 999
+- \# 1000 &rarr; 1099
+- \# 1100 &rarr; 1199
+- \# 1200 &rarr; 1299
+- \# 1300 &rarr; 1399
+- \# 1400 &rarr; 1499
+- \# 1500 &rarr; 1599
+- \# 1600 &rarr; 1699
+- \# 1700 &rarr; 1799
+- \# 1800 &rarr; 1899
+- \# 1900 &rarr; 1999
+- \# 2000 &rarr; 2099
+- \# 2100 &rarr; 2199
+- \# 2200 &rarr; 2299
+- \# 2300 &rarr; 2399
+- \# 2400 &rarr; 2499
+
 
 ## Problem 01 - 99
 
